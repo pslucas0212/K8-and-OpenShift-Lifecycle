@@ -5,4 +5,6 @@ This documents compares the Kubernetes version release and support cycle with th
 ### Appendix
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 - [https://access.redhat.com/solutions/4870701](https://access.redhat.com/solutions/4870701)
-- [Kuberenetes Release History](https://kubernetes.io/releases/#release-history)
+- [Kuberenetes Release History](https://kubernetes.io/releases/#release-history) - Not a Red Hat web site
+- [Kuberentes SIG Release Informaton](https://github.com/kubernetes/sig-release/tree/master/releases) - Not a Red Hat web site
+
