@@ -12,7 +12,7 @@ OCP Version | OCP Release | OCP EoM | K8 Version | K8 Release | K8 EoL
 4.10 | 03/10/2022 | 09/10/2023 | 1.23 | 12/07/2021 | 02/28/2023
 4.9 | 10/18/2021 | 04/18/2021 | 1.22 | 08/04/2021 | 10/28/2022
 4.8 | 07/27/2021 | 11/27/2023 | 1.21 | 04/08/2021 | 06/28/2021
-4.7 | 02/24/2021 | 08/24/2022 | 1.20 | 12/08/2020 | 2/228/2022
+4.7 | 02/24/2021 | 08/24/2022 | 1.20 | 12/08/2020 | 2/28/2022
 
 ### Appendix
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
