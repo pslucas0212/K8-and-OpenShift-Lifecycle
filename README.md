@@ -16,7 +16,7 @@ OCP Version | OCP Release | OCP EOM | K8 Version | K8 Release | K8 EOL
 
 Notes From kubernetes.io:
 - The Kubernetes project maintains release branches for the most recent three minor releases (1.24, 1.23, 1.22). Kubernetes 1.19 and newer receive approximately 1 year of patch support.
-- Kubernetes releases currently happen approximately four times per year. Paul comment looking the information kubernetes.io, it looks like the project may be shifting to three release per year.
+- Kubernetes releases currently happen approximately four times per year. Paul comment: Reviewing the information at kubernetes.io, it looks like the project may be shifting to three release per year.
 
 ### Appendix
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
