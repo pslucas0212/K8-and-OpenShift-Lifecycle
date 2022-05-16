@@ -15,7 +15,7 @@ OCP Version | OCP Release | OCP EOM | K8 Version | K8 Release | K8 EOL
 4.7 | 02/24/2021 | 08/24/2022 | 1.20 | 8 December 2020 | 28 February 2022
 4.6 EUS | 10/27/2020 | 10/27/2022 | 1.19 | 26 August 2020 | 28 October 2021
 
-Notes From kubernetes.io:
+ <span style="color:red">Notes From kubernetes.io:</span>
 - The Kubernetes project maintains release branches for the most recent three minor releases (1.24, 1.23, 1.22). Kubernetes 1.19 and newer receive approximately 1 year of patch support.
 - Kubernetes releases currently happen approximately four times per year. Paul comment: Reviewing the information at kubernetes.io, it looks like the project may be shifting to three release per year.
 
