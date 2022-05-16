@@ -2,10 +2,10 @@
 
 This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Last update 16 May 2022.  Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
 
-### OCP Lifceycle Compared to K8 Lifecycle
+### OCP Lifceycle Compared to K8s Lifecycle
 
 
-OCP Version | OCP Release | OCP EOM | K8 Version | K8 Release | K8 EOL
+OCP Version | OCP Release | OCP EOM | K8s Version | K8s Release | K8s EOL
 ------------|-------------|---------|------------|------------|-------
 4.x | TBD | TBD |  1.25 | 23 August 2022 | TBD
 4.x | TBD | TBD | 1.24 | 3 May 2022 |29 September 2023
