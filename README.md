@@ -9,11 +9,11 @@ OCP Version | OCP Release | OCP EOM | K8 Version | K8 Release | K8 EOL
 ------------|-------------|---------|------------|------------|-------
 4.x | TBD | TBD |  1.25 | 23 August 2022 | TBD
 4.x | TBD | TBD | 1.24 | 3 May 2022 |29 September 2023
-4.10 |10 March 2022 | 10 September 2023 | 1.23 | 7 December 2021 | 28 February 2023
-4.9 | 18 Octover 2021 | 18 April 2021 | 1.22 | 4 August 2021 | 28 October 2022
-4.8 | 27 July 2021 | 27 January 2023 | 1.21 | 8 April 2021 | 28 June 2022
-4.7 | 24 Freburary 2021 | 24 August 2022 | 1.20 | 8 December 2020 | 28 February 2022
-4.6 EUS | 17 December 2020 | 17 December 2022 | 1.19 | 26 August 2020 | 28 October 2021
+4.10 |10 March 2022| 10 September 2023 | 1.23 | 7 December 2021 | 28 February 2023
+4.9 | 18 October 2021 | 18 April 2023| 1.22 | 4 August 2021 | 28 October 2022
+4.8 | 27 July 2921 | 27 January 2023 | 1.21 | 8 April 2021 | 28 June 2022
+4.7 | 24 February 2021| 24 August 2022 | 1.20 | 8 December 2020 | 28 February 2022
+4.6 EUS | 27 October 2020 | 27 October 2022 | 1.19 | 26 August 2020 | 28 October 2021
 
 Notes From kubernetes.io:
 - The Kubernetes project maintains release branches for the most recent three minor releases (1.24, 1.23, 1.22). Kubernetes 1.19 and newer receive approximately 1 year of patch support.
