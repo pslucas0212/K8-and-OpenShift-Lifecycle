@@ -8,12 +8,12 @@ This documents compares the Kubernetes version release and support cycle with th
 OCP Version | OCP Release | OCP EOM | K8s Version | K8s Release | K8s EOL
 ------------|-------------|---------|------------|------------|-------
 4.x | TBD | TBD |  1.25 | 23 August 2022 | TBD
-4.x | TBD | TBD | 1.24 | 3 May 2022 |29 September 2023
-4.10 |10 March 2022| 10 September 2023 | 1.23 | 7 December 2021 | 28 February 2023
-4.9 | 18 October 2021 | 18 April 2023| 1.22 | 4 August 2021 | 28 October 2022
-4.8 | 27 July 2021 | 27 January 2023 | 1.21 | 8 April 2021 | 28 June 2022
-4.7 | 24 February 2021| 24 August 2022 | 1.20 | 8 December 2020 | 28 February 2022
-4.6 EUS | 27 October 2020 | 27 October 2022 | 1.19 | 26 August 2020 | 28 October 2021
+4.x | TBD | TBD | 1.24 | 3 May 2022 |29 Sep 2023
+4.10 |10 Mar 2022| 10 Sep 2023 | 1.23 | 7 Dec 2021 | 28 Feb 2023
+4.9 | 18 Oct 2021 | 18 Apr 2023| 1.22 | 4 Aug 2021 | 28 Oct 2022
+4.8 | 27 Jul 2021 | 27 Jan 2023 | 1.21 | 8 Apr 2021 | 28 Jun 2022
+4.7 | 24 Feb 2021| 24 Aug 2022 | 1.20 | 8 Dec 2020 | 28 Feb 2022
+4.6 EUS | 27 Oct 2020 | 27 Oct 2022 | 1.19 | 26 Aug 2020 | 28 Oct 2021
 
 Notes From kubernetes.io:
 - The Kubernetes project maintains release branches for the most recent three minor releases (1.24, 1.23, 1.22). (Source: https://kubernetes.io/releases/)
