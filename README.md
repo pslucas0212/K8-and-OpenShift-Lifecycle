@@ -1,6 +1,6 @@
 # Kubernetes and OpenShift Lifecycle
 
-This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Last update 16 May 2022.  Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
+This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Last update 2 August 2022.  Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
 
 ### OCP Lifceycle Compared to K8s Lifecycle
 
