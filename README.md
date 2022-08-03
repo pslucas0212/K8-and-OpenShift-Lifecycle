@@ -9,7 +9,7 @@ OCP Version | OCP Release | OCP EOM | K8s Version | K8s Release | K8s EOL
 ------------|-------------|---------|------------|------------|-------
 4.x | TBD | TBD |  1.26 | 6 December 2022 | TBD
 4.x | TBD | TBD |  1.25 | 23 August 2022 | TBD
-4.x | TBD | TBD | 1.24 | 3 May 2022 |29 Sep 2023
+4.11 | TBD | TBD | 1.24 | 3 May 2022 |29 Sep 2023
 4.10 |10 Mar 2022| 10 Sep 2023 | 1.23 | 7 Dec 2021 | 28 Feb 2023
 4.9 | 18 Oct 2021 | 18 Apr 2023| 1.22 | 4 Aug 2021 | 28 Oct 2022
 4.8 | 27 Jul 2021 | 27 Jan 2023 | 1.21 | 8 Apr 2021 | 28 Jun 2022
