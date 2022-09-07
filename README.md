@@ -7,7 +7,7 @@ This documents compares the Kubernetes version release and support cycle with th
 ### OCP Lifceycle Compared to K8s Lifecycle
 
 
-OCP Version | OCP Release | OPC EOFS | OCP EOM | K8s Version | K8s Release | K8s EOL
+OCP Version | OCP Release | OCP EOFS | OCP EOM | K8s Version | K8s Release | K8s EOL
 ------------|-------------|----------|---------|-------------|-------------|-------
 4.x | TBD | TBD | TBD |  1.26 | 6 Dec 2022 | TBD
 4.x | TBD | TBD | TBD |  1.25 | 23 Aug 2022 | 27 Oct 2023
