@@ -2,7 +2,7 @@
 
 [OCP useful links](https://github.com/pslucas0212/OCP-Useful-Links)  
 
-This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Per Red Hat's OCP lifecycle document linked below "Red Hat aims to forecast these at a 4 month cadence, providing customers ample opportunity to plan." Last update 23 August 2022.  Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
+This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Per Red Hat's OCP lifecycle document linked below "Red Hat aims to forecast these at a 4 month cadence, providing customers ample opportunity to plan." Last update 11 January 2023.  Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
 
 Note: OCP Managed Services on Azure and AWS have a different lifecycle.
 - [Support lifecycle for Azure Red Hat OpenShift 4](https://learn.microsoft.com/en-us/azure/openshift/support-lifecycle)
