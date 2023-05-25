@@ -15,7 +15,7 @@ Note: OCP Managed Services on Azure and AWS have a different lifecycle.
 
 OCP Version | OCP Release | OCP EOFS | OCP EOM | OCP EUS | K8s Version | K8s Release | K8s MM | K8s EOL
 ------------|-------------|----------|---------|---------|-------------|-------------|--------|--------
-4.x | TBD| TBD | TBD | - | 1.28 | TBD | TBD |TBD
+4.x | TBD| TBD | TBD | - | 1.28 | 15 Aug 2023 | TBD |TBD
 4.x | TBD| TBD | TBD | - | 1.27 | 11 Apr 2023 | 14 Apr 2024 |28 Jun 2024
 4.13 | 17 May 2023 | 4.14 GA + 3 months | 17 Nov 2024 | - |  1.26 | 9 Dec 2022 | 28 Dec 2023 | 28 Feb 2024
 4.12 | 17 Jan 2023 | 17 Aug 2023 | 17 Jul 2024 | 17 Jan 2025 | 1.25 | 23 Aug 2022 | 8 Aug 2023 | 27 Oct 2023
