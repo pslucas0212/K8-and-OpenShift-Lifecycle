@@ -17,7 +17,7 @@ OCP Version | OCP Release | OCP EOFS | OCP EOM | OCP EUS | K8s Version | K8s Rel
 ------------|-------------|----------|---------|---------|-------------|-------------|--------|--------
 4.x | TBD| TBD | TBD | - | 1.29 | TBD | TBD |TBD
 4.x | TBD| TBD | TBD | - | 1.28 | 23 Aug 2023 | 28 Aug 2024 |28 Oct 2024
-4.14 | 31 Oct 2023| 4.15 GA + 3 month | 1 May 2025 | - | 1.27 | 11 Apr 2023 | 14 Apr 2024 |28 Jun 2024
+4.14 | 31 Oct 2023| 4.15 GA + 3 month | 1 May 2025 | 31 Oct 2025 | 1.27 | 11 Apr 2023 | 14 Apr 2024 |28 Jun 2024
 4.13 | 17 May 2023 | 31 Jan 2024 | 17 Nov 2024 | N/A |  1.26 | 9 Dec 2022 | 28 Dec 2023 | 28 Feb 2024
 4.12 | 17 Jan 2023 | 17 Aug 2023 | 17 Jul 2024 | 17 Jan 2025 | 1.25 | 23 Aug 2022 | 8 Aug 2023 | 27 Oct 2023
 4.11 | 10 Aug 2022 | 17 Apr 2023 |10 Feb 2024 |  - |1.24 | 3 May 2022 | 28 May 2023 | 28 Jul 2023
