@@ -2,7 +2,7 @@
 
 [OCP useful links](https://github.com/pslucas0212/OCP-Useful-Links) 
 
-Updated 7 November 2023
+Updated 13 February 2024
 
 This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Per Red Hat's OCP lifecycle document linked below "Red Hat aims to forecast these at a 4 month cadence, providing customers ample opportunity to plan."   Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
 
@@ -15,7 +15,8 @@ Note: OCP Managed Services on Azure and AWS have a different lifecycle.
 
 OCP Version | OCP Release | OCP EOFS | OCP EOM | OCP EUS | K8s Version | K8s Release | K8s MM | K8s EOL
 ------------|-------------|----------|---------|---------|-------------|-------------|--------|--------
-4.x | TBD| TBD | TBD | - | 1.29 | TBD | TBD |TBD
+4.x | TBD| TBD | TBD | - | 1.30 |TBD | TBD | TBD
+4.x | TBD| TBD | TBD | - | 1.29 | TBD | TBD |28 Feb 2025
 4.x | TBD| TBD | TBD | - | 1.28 | 23 Aug 2023 | 28 Aug 2024 |28 Oct 2024
 4.14 | 31 Oct 2023| 4.15 GA + 3 month | 1 May 2025 | 31 Oct 2025 | 1.27 | 11 Apr 2023 | 14 Apr 2024 |28 Jun 2024
 4.13 | 17 May 2023 | 31 Jan 2024 | 17 Nov 2024 | N/A |  1.26 | 9 Dec 2022 | 28 Dec 2023 | 28 Feb 2024
