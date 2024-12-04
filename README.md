@@ -4,7 +4,7 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 [OCP useful links](https://github.com/pslucas0212/OCP-Useful-Links) 
 
-Updated 1 October 2024
+Updated 3 December 2024
 
 This documents compares the Kubernetes version release and support cycle with that of OpenShift's release and support cycle.  Per Red Hat's OCP lifecycle document linked below "Red Hat aims to forecast these at a 4 month cadence, providing customers ample opportunity to plan."   Check official documentaton (see Appendix below) to confirm correct dates before planning any activities.
 
