@@ -25,7 +25,7 @@ OCP Version | OCP Release | OCP EOFS | OCP EOM | OCP EUS | OCP EUS Term 2 |K8s V
 ------------|-------------|----------|---------|---------|----------------|-------------|-------------|--------|--------
 4.x | TBD | TBD | TBD | - | - | 1.34 | 27 Aug 2025 | TBD | TBD
 4.x | TBD | TBD | TBD | - | - | 1.33 | 23 Apr 2025 | 28 Apr 2026 | 28 Jun 2026
-4.19 | 17 Jun 2025 | GA of 4.20 + 3 Months | 17 Dec 2026 | - | - | 1.32 | 14 Jan 2025 | 28 Dec 2025 | 28 Feb 2026
+4.19 | 17 Jun 2025 | GA of 4.20 + 3 Months | 17 Dec 2026 | N/A | N/A | 1.32 | 14 Jan 2025 | 28 Dec 2025 | 28 Feb 2026
 4.18 | 25 Feb 2025 | 17 Sep 2025 | 25 Aug 2026 | 25 Feb 2027 | 25 Feb 2028 | 1.31 |13 Aug 2024 | 28 Aug 2025 | 28 Oct 2025
 4.17 | 1 Oct 2024 | 25 May 2025 | 1 Apr 2026 | N/A | N/A | 1.30 |17 Apr 2024 | 28 Apr 2025 | 28 Jun 2025
 4.16 | 27 Jun 2024 | 1 Jan 2025 | 27 Dec 2025 | 27 Jun 2026 | 27 Jun 2027 | 1.29 | 13 Dec 2023 | 28 Dec 2024 |28 Feb 2025
