@@ -1,7 +1,7 @@
 # Kubernetes and OpenShift Lifecycle
 
 
-[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)  
 [OCP useful links](https://github.com/pslucas0212/OCP-Useful-Links) 
 
 Updated 12 November 2025
